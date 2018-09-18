@@ -11,14 +11,14 @@ headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is an android chat app through which you'll be chat to other people."
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/college-plus-logo.webp" height="20" width="20" align="absmiddle">'
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/college-plus-logo.webp" height="20" width="20" align="absmiddle">'
 author: vish
 externalLink: false
 ---
 
-<a href="http://bit.ly/college-plus" target="_blank">
+<!-- <a href="http://bit.ly/college-plus" target="_blank">
   <img width="180" height="70" border="0" align="center"  src="/assets/images/play-store.png"/>
-</a>
+</a> -->
 
 An Android app that fit's for every college students. Keep track on all your upcoming events. Get lecture details. Plan your trips according to the best bus that fits you. Reminders for returning library books, mess meals and much more. 
 
