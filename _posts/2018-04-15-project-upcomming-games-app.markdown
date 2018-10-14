@@ -6,12 +6,12 @@ tag:
 - Games Information
 - android 
 - apps
-image: /assets/images/college-plus-logo.webp
+image: https://VISH-KUMAR.github.io/VICKY//assets/images/slide1.jpeg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is an android app through which'll give informations abour upcomming games."
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/college-plus-logo.webp" height="20" width="20" align="absmiddle">'
+description: "Get informations about upcomming games."
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/markdown.jpg" height="20" width="20" align="absmiddle">'
 author: vish
 externalLink: false
 ---
@@ -41,8 +41,8 @@ A Hybrid  app based on IGMP api that will give information about the upcomming m
 
 ---
 
-## Developer's note
+## Screenshots
 
-When I entered into the univerity, it was much difficult for me to remember mess menu for whole week. Missed some classes becuase I was unware of time table change. In order to solve all this problems I started developing apps and developed this.
+
 
 ---

@@ -7,12 +7,12 @@ tag:
 - Convertor
 - Programmer's Calculation
 - Desktop App
-image: /assets/images/college-plus-logo.webp
+image: https://VISH-KUMAR.github.io/VICKY//assets/images/slide1.jpeg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a desktop software application that will do all the calculations and conversions."
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/college-plus-logo.webp" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/markdown.jpg" height="20" width="20" align="absmiddle">'
 author: vish
 externalLink: false
 ---
@@ -41,8 +41,8 @@ Calculator - This Calculator can do all the standard calculations, Programmer's 
 
 ---
 
-## Developer's note
+## Screenshots
 
-Build this calculator Just for curiosity that can I make exactly look like windows 10 calculator and I succeed.
+
 
 ---
