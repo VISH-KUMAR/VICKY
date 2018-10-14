@@ -6,7 +6,7 @@ tag:
 - Chatting
 - android 
 - apps
-image: /assets/images/slide1.jpeg
+image: assets/images/slide1.jpeg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -52,19 +52,19 @@ An Android app that fit's for every college students. Keep track on all your upc
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="/assets/images/slide1.jpeg" />
+      <img src="{{ site.baseurl }}/assets/images/slide1.jpeg" />
     </li>
     <li>
-      <img src="/assets/images/slide2.jpeg" />
+      <img src="{{ site.baseurl }}/assets/images/slide2.jpeg" />
     </li>
     <li>
-      <img src="/assets/images/slide3.jpeg" />
+      <img src="{{ site.baseurl }}/assets/images/slide3.jpeg" />
     </li>
     <li>
-      <img src="/assets/images/slide4.jpeg" />
+      <img src="{{ site.baseurl }}/assets/images/slide4.jpeg" />
     </li>
     <li>
-      <img src="/assets/images/slide5.jpeg" />
+      <img src="{{ site.baseurl }}/assets/images/slide5.jpeg" />
     </li>
   </ul>
 </div>
