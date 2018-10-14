@@ -6,7 +6,7 @@ tag:
 - Chatting
 - android 
 - apps
-image: /assets/images/college-plus-logo.webp
+image: /assets/images/slide1.jpeg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -47,8 +47,26 @@ An Android app that fit's for every college students. Keep track on all your upc
 
 ---
 
-## Developer's note
+## Screenshots
 
-When I entered into the univerity, it was much difficult for me to remember mess menu for whole week. Missed some classes becuase I was unware of time table change. In order to solve all this problems I started developing apps and developed this.
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="/assets/images/slide1.jpeg" />
+    </li>
+    <li>
+      <img src="/assets/images/slide2.jpeg" />
+    </li>
+    <li>
+      <img src="/assets/images/slide3.jpeg" />
+    </li>
+    <li>
+      <img src="/assets/images/slide4.jpeg" />
+    </li>
+    <li>
+      <img src="/assets/images/slide5.jpeg" />
+    </li>
+  </ul>
+</div>
 
 ---
