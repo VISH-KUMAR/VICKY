@@ -57,7 +57,7 @@
   display: block;
   clear: both;
   visibility: hidden;
-  line-height: 0;
+  line-height: 0 !important;
   height: 0;
 }
 html[xmlns] .flexslider .slides {
@@ -73,7 +73,8 @@ html[xmlns] .flexslider .slides {
  * DEFAULT THEME
  * ====================================================================================================================*/
 .flexslider {
-  margin: 0 0 60px;
+  /* margin: 0 0 60px; */
+  margin: 0 auto 60px auto;
   background: #fff;
   border: 4px solid #fff;
   position: relative;
@@ -85,6 +86,8 @@ html[xmlns] .flexslider .slides {
   -moz-box-shadow: '' 0 1px 4px rgba(0, 0, 0, 0.2);
   -o-box-shadow: '' 0 1px 4px rgba(0, 0, 0, 0.2);
   box-shadow: '' 0 1px 4px rgba(0, 0, 0, 0.2);
+  /* height:530px;
+  width:300px; */
 }
 .flexslider .slides {
   zoom: 1;

@@ -16,17 +16,15 @@ author: vish
 externalLink: false
 ---
 
-<!-- <a href="http://bit.ly/college-plus" target="_blank">
-  <img width="180" height="70" border="0" align="center"  src="/assets/images/play-store.png"/>
-</a> -->
+<a href="#" target="_blank">
+  <img width="56" height="32" border="0" align="center"  src="{{ site.baseurl }}/assets/images/gitlogo1.svg"/>Github
+</a>
 
 Books Plus – Library Management Software allows you to manage the whole library through its simple and interactive interface. The librarian can manage all the library item details and keep a track on all the books that are issued. Even fine collection can issued to late return on the book. All the details of the books such as author name, edition, price, etc can be stored in the school library database.
 
 ---
 
 ## Key Features 
-
-
 
 - Works offline!
 - Material Design and Lightweight.
@@ -44,6 +42,25 @@ Books Plus – Library Management Software allows you to manage the whole librar
 
 ## Screenshots
 
-
+<!-- Place somewhere in the <body> of your page -->
+<div class="flexslider">
+  <ul class="slides" style="line-height:0;">
+    <li style="line-height:0;">
+      <img src="{{ site.baseurl }}/assets/images/bookplus/slide1.png" />
+    </li>
+    <li style="line-height:0;">
+      <img src="{{ site.baseurl }}/assets/images/bookplus/slide2.png" />
+    </li>
+    <li style="line-height:0;">
+      <img src="{{ site.baseurl }}/assets/images/bookplus/slide3.png" />
+    </li>
+    <li style="line-height:0;">
+      <img src="{{ site.baseurl }}/assets/images/bookplus/slide4.png" />
+    </li>
+    <li style="line-height:0;">
+      <img src="{{ site.baseurl }}/assets/images/bookplus/slide5.png" />
+    </li>
+  </ul>
+</div>
 
 ---

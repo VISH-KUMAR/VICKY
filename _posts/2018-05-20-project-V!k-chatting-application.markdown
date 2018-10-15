@@ -16,9 +16,9 @@ author: vish
 externalLink: false
 ---
 
-<!-- <a href="http://bit.ly/college-plus" target="_blank">
-  <img width="180" height="70" border="0" align="center"  src="/assets/images/play-store.png"/>
-</a> -->
+<a href="#" target="_blank">
+  <img width="56" height="32" border="0" align="center"  src="{{ site.baseurl }}/assets/images/gitlogo1.svg"/>Github
+</a>
 
 An Android app that fit's for every college students. Keep track on all your upcoming events. Get lecture details. Plan your trips according to the best bus that fits you. Reminders for returning library books, mess meals and much more. 
 
@@ -52,19 +52,19 @@ An Android app that fit's for every college students. Keep track on all your upc
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="{{ site.baseurl }}/assets/images/slide1.jpeg" />
+      <img src="{{ site.baseurl }}/assets/images/chatApp/slide1.jpeg" />
     </li>
     <li>
-      <img src="{{ site.baseurl }}/assets/images/slide2.jpeg" />
+      <img src="{{ site.baseurl }}/assets/images/chatApp/slide2.jpeg" />
     </li>
     <li>
-      <img src="{{ site.baseurl }}/assets/images/slide3.jpeg" />
+      <img src="{{ site.baseurl }}/assets/images/chatApp/slide3.jpeg" />
     </li>
     <li>
-      <img src="{{ site.baseurl }}/assets/images/slide4.jpeg" />
+      <img src="{{ site.baseurl }}/assets/images/chatApp/slide4.jpeg" />
     </li>
     <li>
-      <img src="{{ site.baseurl }}/assets/images/slide5.jpeg" />
+      <img src="{{ site.baseurl }}/assets/images/chatApp/slide5.jpeg" />
     </li>
   </ul>
 </div>
