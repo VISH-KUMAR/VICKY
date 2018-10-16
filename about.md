@@ -4,43 +4,132 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- <div align="justify" >
+<h3 style="text-align:center; margin-bottom:0;">Hi!.. I am VICKY KUMAR BAIRWA</h3><br>
+<p style="text-align:center; margin-top:0 ;">
+I am currently pursuing my <br>
+Bachelors in Computer Science & Engineering <br>
+from <br>
+<a href="http://www.maietindia.org">Maharishi Arvind Intitute Of Technology & Engineering(MAIET), Jaipur</a>
+</p	>
+</div> -->
+<div align="justify" >
+<h3 style="text-align:center; margin-bottom:0;">Hi!.. I am VICKY KUMAR BAIRWA</h3><br>
+<p style="text-align:center; margin-top:0 ;">
+A Final Year Computer Science & Engineering Undergraduate Student<br>
+at<br>
+<a href="http://www.maietindia.org">Maharishi Arvind Intitute Of Technology & Engineering(MAIET), Jaipur</a>
+</p	>
+<br>
+<p style="font-size:24px;text-align:center;">
+I'm a Full Stack Developer in MEAN Stack<br>
+A Machine Learning enthusiast<br>
+Who loves to learn and try new tools & technology
+</p>
+</div>
 
 <h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
+<p>C/C++</p>
+<div class="container">
+  <div class="skills c">60%</div>
+</div>
+
+<p>JavaSE</p>
+<div class="container">
+  <div class="skills java">60%</div>
+</div>
+
+<p>JavaScript(ES6)</p>
+<div class="container">
+  <div class="skills js">60%</div>
+</div>
+
+<p>CSS</p>
+<div class="container">
+  <div class="skills css">60%</div>
+</div>
+
+<p>NodeJS</p>
+<div class="container">
+  <div class="skills nodejs">50%</div>
+</div>
+
+<p>Angular</p>
+<div class="container">
+  <div class="skills angular">60%</div>
+</div>
+
+<p>Git</p>
+<div class="container">
+  <div class="skills git">50%</div>
+</div>
+
+<p>MySql-MongoDB</p>
+<div class="container">
+  <div class="skills sql">60%</div>
+</div>
+<!-- <ul class="skill-list">
+	<li>C
+	<div id="myProgress">
+  		<div id="myBar" style="width:75%;"></div>
+	</div>
+	</li>
+	<li>C++</li>
+	<li>JavaSE</li>
+	<li>CSS (Sass)</li>
+	<li>Css Frameworks (Bootstrap)</li>
 	<li>Javascript (Design Patterns, Testes)</li>
 	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>AngularJS</li>
 	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+</ul> -->
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">V!K Chat App</a></li>
+	<li><a href="https://github.com/">Books Plus</a></li>
 </ul>
+
+<style>
+/* * {box-sizing: border-box} */
+
+.container {
+	line-height:0;
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding: 10px;
+  color: white;
+}
+
+.c {width: 60%; background-color: #4CAF50;}
+.css {width: 60%; background-color: #2196F3;}
+.js {width: 60%; background-color: #f44336;}
+.java {width: 60%; background-color: #7a13a0;}
+.nodejs {width: 60%; background-color: #a09b13;}
+.angular {width: 60%; background-color: #f9f7b8;}
+.git {width: 60%; background-color: #173a3a;}
+.sql {width: 60%; background-color: #ff7fda;}
+
+</style>
+
+<!-- <style>
+	#myProgress {
+	width: 100%;
+	background-color: #ddd;
+	}
+	#myBar {
+	height: 20px;
+	background-color: #4CAF50;
+	text-align: right;
+	line-height: 30px;
+	color: white;
+	}
+</style> -->
