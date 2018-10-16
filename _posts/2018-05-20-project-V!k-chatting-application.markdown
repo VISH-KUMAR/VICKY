@@ -11,7 +11,7 @@ headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "One to One Chat, Group Chat, Public Group Chat"
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/markdown.jpg" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="{{ site.baseurl }}/assets/images/game-icon.png" height="20" width="20" align="absmiddle">'
 author: vish
 externalLink: false
 ---

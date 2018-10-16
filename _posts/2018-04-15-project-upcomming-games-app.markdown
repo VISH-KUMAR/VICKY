@@ -6,12 +6,12 @@ tag:
 - Games Information
 - android 
 - apps
-image: https://VISH-KUMAR.github.io/VICKY//assets/images/slide1.jpeg
+image: https://VISH-KUMAR.github.io/VICKY//assets/images/game-icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Get informations about upcomming games."
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/markdown.jpg" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="{{ site.baseurl }}/assets/images/game-icon.png" height="20" width="20" align="absmiddle">'
 author: vish
 externalLink: false
 ---
@@ -43,6 +43,21 @@ A Hybrid  app based on IGMP api that will give information about the upcomming m
 
 ## Screenshots
 
-
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="{{ site.baseurl }}/assets/images/game-details-app/slide1.jpeg" />
+    </li>
+    <li>
+      <img src="{{ site.baseurl }}/assets/images/game-details-app/slide2.jpeg" />
+    </li>
+    <li>
+      <img src="{{ site.baseurl }}/assets/images/game-details-app/slide3.jpeg" />
+    </li>
+    <li>
+      <img src="{{ site.baseurl }}/assets/images/game-details-app/slide4.png" />
+    </li>
+  </ul>
+</div>
 
 ---

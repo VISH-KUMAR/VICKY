@@ -98,7 +98,7 @@ Who loves to learn and try new tools & technology
 /* * {box-sizing: border-box} */
 
 .container {
-	line-height:0;
+	line-height: 0;
   width: 100%;
   background-color: #ddd;
 }
