@@ -4,46 +4,45 @@ layout: post
 date: 2018-05-25 19:26
 tag: 
 - Chatting
-- android 
+- Hybrid app
 - apps
-image: https://VISH-KUMAR.github.io/VICKY//assets/images/slide1.jpeg
+image: https://VISH-KUMAR.github.io/VICKY//assets/images/vik.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "One to One Chat, Group Chat, Public Group Chat"
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="{{ site.baseurl }}/assets/images/game-icon.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/vik.png" height="20" width="30" align="absmiddle">'
 author: vish
 externalLink: false
 ---
-
+<p style="text-align:center;">  
 <a href="#" target="_blank">
   <img width="56" height="32" border="0" align="center"  src="{{ site.baseurl }}/assets/images/gitlogo1.svg"/>Github
 </a>
-
-An Android app that fit's for every college students. Keep track on all your upcoming events. Get lecture details. Plan your trips according to the best bus that fits you. Reminders for returning library books, mess meals and much more. 
+</p>
+An Hybrid app that fit's for every college students. Keep track on all your upcoming events. Get lecture details. Plan your trips according to the best bus that fits you. Reminders for returning library books, mess meals and much more. 
 
 ---
 
 ## Key Features 
 
-### v1.2.1.2
-
-- Auto refresh
-- Get notification when data get's updated
-
-### v1.1.0.4
-
-- Works offline!
-- Reminders for every event.
-- Material Design and Lightweight.
+- One to one chat.
+- One can create friends group.
+- Can create or chat in public groups.
+- Works on multiple platforms.
+- Push Notifications.
+- Material Design.
+- Fast and Lightweight.
+- login with google id.
 
 ---
 
 ## Technology Used
 
-- Ionic and AngularJs in app
-- Angular Firestore as Database on server Firebase
-- Storage Plugin as local database
+- Frontend       - Ionic and AngularJs 
+- Backend        - Typescript
+- Database       - Angular Firestore as Database on Firebase
+- Local Storage  - Storage Plugin as local database
 
 ---
 

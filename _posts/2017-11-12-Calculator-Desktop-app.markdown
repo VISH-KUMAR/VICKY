@@ -17,27 +17,28 @@ author: vish
 externalLink: false
 ---
 
-<!-- <a href="http://bit.ly/college-plus" target="_blank">
-  <img width="180" height="70" border="0" align="center"  src="/assets/images/play-store.png"/>
-</a> -->
-
+<p style="text-align:center;">  
+<a href="#" target="_blank">
+  <img width="56" height="32" border="0" align="center"  src="{{ site.baseurl }}/assets/images/gitlogo1.svg"/>Github
+</a>
+</p>
 Calculator - This Calculator can do all the standard calculations, Programmer's calculations i.e. binary to decimal coversion and vice versa etc. This also has the functionality of conversions there are different converters  like area, length , data(kb, mb),  temperature etc. 
+
 ---
 
 ## Key Features 
 
-
-
 - Works offline!
 - Material Design and Lightweight.
-- 
+- Programmer Calculator
+- Different Types of convertors
+
 ---
 
 ## Technology Used
 
-- Java
-- JavaFx(User Interface)
-- Jpheonix, (Reference Library)
+- Frontend - JavaFx, Jpheonix(Reference Library), Fontawsome
+- Backend  - Core Java  
 
 ---
 
