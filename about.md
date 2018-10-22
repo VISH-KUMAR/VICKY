@@ -13,15 +13,17 @@ from <br>
 <a href="http://www.maietindia.org">Maharishi Arvind Intitute Of Technology & Engineering(MAIET), Jaipur</a>
 </p	>
 </div> -->
+<img src="/assets/images/user-placeholder.svg" alt="keyboard" style="width: 70px;">	
 <div align="justify" >
 <h3 style="text-align:center; margin-bottom:0;">Hi!.. I am VICKY KUMAR BAIRWA</h3><br>
-<p style="text-align:center; margin-top:0 ;">
+<p style="text-align:center; margin-top:0; margin-bottom:0;">
 A Final Year Computer Science & Engineering Undergraduate Student<br>
 at<br>
 <a href="http://www.maietindia.org">Maharishi Arvind Intitute Of Technology & Engineering(MAIET), Jaipur</a>
 </p	>
 <br>
-<p style="font-size:24px;text-align:center;">
+<img src="/assets/images/keyboard.svg" alt="keyboard" style="width: 70px;">	
+<p style="font-size:24px;text-align:center;margin-top: 0;">
 I'm a Full Stack Developer in MEAN Stack<br>
 A Machine Learning enthusiast<br>
 Who loves to learn and try new tools & technology
@@ -32,42 +34,42 @@ Who loves to learn and try new tools & technology
 
 <p>C/C++</p>
 <div class="container">
-  <div class="skills c">60%</div>
+  <div class="skills c">Intermediate</div>
 </div>
 
 <p>JavaSE</p>
 <div class="container">
-  <div class="skills java">60%</div>
+  <div class="skills java">Advance</div>
 </div>
 
 <p>JavaScript(ES6)</p>
 <div class="container">
-  <div class="skills js">60%</div>
+  <div class="skills js">Advance</div>
 </div>
 
 <p>CSS</p>
 <div class="container">
-  <div class="skills css">60%</div>
+  <div class="skills css">Intermediate</div>
 </div>
 
 <p>NodeJS</p>
 <div class="container">
-  <div class="skills nodejs">50%</div>
+  <div class="skills nodejs">Intermediate</div>
 </div>
 
 <p>Angular</p>
 <div class="container">
-  <div class="skills angular">60%</div>
+  <div class="skills angular">Intermediate</div>
 </div>
 
 <p>Git</p>
 <div class="container">
-  <div class="skills git">50%</div>
+  <div class="skills git">Intermediate</div>
 </div>
 
 <p>MySql-MongoDB</p>
 <div class="container">
-  <div class="skills sql">60%</div>
+  <div class="skills sql">Intermediate</div>
 </div>
 <!-- <ul class="skill-list">
 	<li>C
@@ -110,13 +112,13 @@ Who loves to learn and try new tools & technology
 }
 
 .c {width: 60%; background-color: #4CAF50;}
-.css {width: 60%; background-color: #2196F3;}
-.js {width: 60%; background-color: #f44336;}
-.java {width: 60%; background-color: #7a13a0;}
+.css {width: 65%; background-color: #2196F3;}
+.js {width: 67%; background-color: #f44336;}
+.java {width: 80%; background-color: #7a13a0;}
 .nodejs {width: 60%; background-color: #a09b13;}
-.angular {width: 60%; background-color: #f9f7b8;}
-.git {width: 60%; background-color: #173a3a;}
-.sql {width: 60%; background-color: #ff7fda;}
+.angular {width: 70%; background-color: #f9f7b8;}
+.git {width: 50%; background-color: #173a3a;}
+.sql {width: 65%; background-color: #ff7fda;}
 
 </style>
 
