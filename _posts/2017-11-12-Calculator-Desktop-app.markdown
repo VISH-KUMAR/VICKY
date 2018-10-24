@@ -7,18 +7,18 @@ tag:
 - Convertor
 - Programmer's Calculation
 - Desktop App
-image: https://VISH-KUMAR.github.io/VICKY//assets/images/slide1.jpeg
-headerImage: true
+#image: https://VISH-KUMAR.github.io/VICKY//assets/images/slide1.jpeg
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a desktop software application that will do all the calculations and conversions."
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/markdown.jpg" height="20" width="20" align="absmiddle">'
+description: "Software application that will do all the calculations and conversions."
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/markdown.jpg" height="20" width="20" align="absmiddle">'
 author: vish
 externalLink: false
 ---
 
 <p style="text-align:center;">  
-<a href="#" target="_blank">
+<a href="https://github.com/VISH-KUMAR/Calculator" target="_blank">
   <img width="56" height="32" border="0" align="center"  src="{{ site.baseurl }}/assets/images/gitlogo1.svg"/>Github
 </a>
 </p>
@@ -28,7 +28,7 @@ Calculator - This Calculator can do all the standard calculations, Programmer's 
 
 ## Key Features 
 
-- Works offline!
+- Works offline
 - Material Design and Lightweight.
 - Programmer Calculator
 - Different Types of convertors
@@ -43,7 +43,6 @@ Calculator - This Calculator can do all the standard calculations, Programmer's 
 ---
 
 ## Screenshots
-
 
 
 ---

@@ -11,16 +11,16 @@ headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "One to One Chat, Group Chat, Public Group Chat"
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/vik.png" height="20" width="30" align="absmiddle">'
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/vik.png" height="20" width="30" align="absmiddle">'
 author: vish
 externalLink: false
 ---
 <p style="text-align:center;">  
-<a href="#" target="_blank">
+<a href="https://github.com/VISH-KUMAR/Group-Chat-App" target="_blank">
   <img width="56" height="32" border="0" align="center"  src="{{ site.baseurl }}/assets/images/gitlogo1.svg"/>Github
 </a>
 </p>
-An Hybrid app that fit's for every college students. Keep track on all your upcoming events. Get lecture details. Plan your trips according to the best bus that fits you. Reminders for returning library books, mess meals and much more. 
+An Hybrid chatting app that let users to chat each other individually(one to one), or in groups. 
 
 ---
 

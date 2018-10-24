@@ -11,16 +11,16 @@ headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Get informations about upcomming games."
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/game-icon.png" height="20" width="20" align="absmiddle">'
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/game-icon.png" height="20" width="20" align="absmiddle">'
 author: vish
 externalLink: false
 ---
 
-<p style="text-align:center;">  
+<!-- <p style="text-align:center;">  
 <a href="#" target="_blank">
   <img width="56" height="32" border="0" align="center"  src="{{ site.baseurl }}/assets/images/gitlogo1.svg"/>Github
 </a>
-</p>
+</p> -->
 
 A Hybrid app based on IGMP api that will give information about the upcomming mobile or pc games. It'll provide the date of releasing of that game, shor summary, screenshots, rating, some videos and their official game site.
 

@@ -1,28 +1,28 @@
 ---
-title: "Books Plus"
+title: "Library Management Software Application"
 layout: post
 date: 2018-02-25 7:26
 tag: 
 - Books Management
 - Software  
 - Desktop App
-image: https://VISH-KUMAR.github.io/VICKY//assets/images/slide1.jpeg
-headerImage: true
+#image: https://VISH-KUMAR.github.io/VICKY//assets/images/slide1.jpeg
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Can manage all the operations of library operations."
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/markdown.jpg" height="20" width="20" align="absmiddle">'
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/markdown.jpg" height="20" width="20" align="absmiddle">'
 author: vish
 externalLink: false
 ---
 
 <p style="text-align:center;">  
-<a href="#" target="_blank">
+<a href="https://github.com/VISH-KUMAR/Library-Managenment" target="_blank">
   <img width="56" height="32" border="0" align="center"  src="{{ site.baseurl }}/assets/images/gitlogo1.svg"/>Github
 </a>
 </p>
 
-Books Plus – Library Management Software allows you to manage the whole library through its simple and interactive interface. The librarian can manage all the library item details and keep a track on all the books that are issued. Even fine collection can issued to late return on the book. All the details of the books such as author name, edition, price, etc can be stored in the school library database.
+Library Management Software allows you to manage the whole library through its simple and interactive interface. The librarian can manage all the library item details and keep a track on all the books that are issued. Even fine collection can issued to late return on the book. All the details of the books such as author name, edition, price, etc can be stored in the school library database.
 
 ---
 
@@ -37,8 +37,9 @@ Books Plus – Library Management Software allows you to manage the whole librar
 
 ## Technology Used
 
-- Java / JavaFx(User Interface)
-- SQL as Database on Derby database
+- Frontend - JavaFx Framework, Jpheonix Library, Fontawesome(icons)
+- Backend - Java
+- Database - Derby database(SQL)
 
 ---
 

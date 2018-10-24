@@ -13,7 +13,7 @@ from <br>
 <a href="http://www.maietindia.org">Maharishi Arvind Intitute Of Technology & Engineering(MAIET), Jaipur</a>
 </p	>
 </div> -->
-<img src="/assets/images/user-placeholder.svg" alt="keyboard" style="width: 70px;">	
+<img src="{{ site.baseurl }}/assets/images/user-placeholder.svg" alt="keyboard" style="width: 70px;">	
 <div align="justify" >
 <h3 style="text-align:center; margin-bottom:0;">Hi!.. I am VICKY KUMAR BAIRWA</h3><br>
 <p style="text-align:center; margin-top:0; margin-bottom:0;">
@@ -22,7 +22,7 @@ at<br>
 <a href="http://www.maietindia.org">Maharishi Arvind Intitute Of Technology & Engineering(MAIET), Jaipur</a>
 </p	>
 <br>
-<img src="/assets/images/keyboard.svg" alt="keyboard" style="width: 70px;">	
+<img src="{{ site.baseurl }}/assets/images/keyboard.svg" alt="keyboard" style="width: 70px;">	
 <p style="font-size:24px;text-align:center;margin-top: 0;">
 I'm a Full Stack Developer in MEAN Stack<br>
 A Machine Learning enthusiast<br>
