@@ -13,7 +13,7 @@ from <br>
 <a href="http://www.maietindia.org">Maharishi Arvind Intitute Of Technology & Engineering(MAIET), Jaipur</a>
 </p	>
 </div> -->
-<img src="{{ site.baseurl }}/assets/images/user-placeholder.svg" alt="keyboard" style="width: 70px;">	
+<img src="{{ site.baseurl }}/assets/images/user-placeholder.svg" alt="keyboard" style="width: 40px;">	
 <div align="justify" >
 <h3 style="text-align:center; margin-bottom:0;">Hi!.. I am VICKY KUMAR BAIRWA</h3><br>
 <p style="text-align:center; margin-top:0; margin-bottom:0;">
@@ -22,7 +22,7 @@ at<br>
 <a href="http://www.maietindia.org">Maharishi Arvind Intitute Of Technology & Engineering(MAIET), Jaipur</a>
 </p	>
 <br>
-<img src="{{ site.baseurl }}/assets/images/keyboard.svg" alt="keyboard" style="width: 70px;">	
+<img src="{{ site.baseurl }}/assets/images/keyboard.svg" alt="keyboard" style="width: 40px;">	
 <p style="font-size:24px;text-align:center;margin-top: 0;">
 I'm a Full Stack Developer in MEAN Stack<br>
 A Machine Learning enthusiast<br>
@@ -71,6 +71,11 @@ Who loves to learn and try new tools & technology
 <div class="container">
   <div class="skills sql">Intermediate</div>
 </div>
+
+<p>Python</p>
+<div class="container">
+  <div class="skills py">Beginner</div>
+</div>
 <!-- <ul class="skill-list">
 	<li>C
 	<div id="myProgress">
@@ -111,15 +116,15 @@ Who loves to learn and try new tools & technology
   color: white;
 }
 
-.c {width: 60%; background-color: #4CAF50;}
-.css {width: 65%; background-color: #2196F3;}
-.js {width: 67%; background-color: #f44336;}
-.java {width: 80%; background-color: #7a13a0;}
-.nodejs {width: 60%; background-color: #a09b13;}
-.angular {width: 70%; background-color: #f9f7b8;}
-.git {width: 50%; background-color: #173a3a;}
-.sql {width: 65%; background-color: #ff7fda;}
-
+.c {width: 60%; background-color: #68e877;}
+.css {width: 65%; background-color: #68e877;}
+.js {width: 67%; background-color: #68e877;}
+.java {width: 80%; background-color: #68e877;}
+.nodejs {width: 60%; background-color: #68e877;}
+.angular {width: 70%; background-color: #68e877;}
+.git {width: 50%; background-color: #68e877;}
+.sql {width: 65%; background-color: #68e877;}
+.py {width:35%; background-color: #68e877;}
 </style>
 
 <!-- <style>
